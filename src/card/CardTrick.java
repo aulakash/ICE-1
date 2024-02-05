@@ -4,8 +4,8 @@ import java.util.Random;
 import java.util.Scanner;
 
 /*
- * Modified by: Ashvir Aulakh
- * Student Number: 991716285
+ * Modified by: Ashvir Aulakh;
+ * Student Number: 991716285;
  */
 public class CardTrick {
 
